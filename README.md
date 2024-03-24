@@ -1,18 +1,17 @@
-## Getting Started
+<h1 align="center"> Python Methods to Java </h1>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+<h2> Actual Methods </h2>
 
-## Folder Structure
+**print():**
 
-The workspace contains two folders by default, where:
+- print(str, op)     
+str arg, op  -> 
+"NORMAL", "DOWN", "INVERSE", "INVERSE-DOWN"
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- print(integer) --> int integer
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- print(arrStr) --> String[] arrStr
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- print(arrInt) --> int[] arrInt
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- print(arrFloat) --> float[] arrFloat
